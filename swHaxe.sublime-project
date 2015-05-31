@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"name": "swHaxe",
+			"path": "/Users/swizard/Documents/workspace/haxe/swHaxe"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Flixel",
+			"path": "/Users/swizard/haxe/flixel/3,3,8/"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Flixel UI",
+			"path": "/Users/swizard/haxe/flixel-ui/1,0,2/"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Haxe",
+			"path": "/usr/lib/haxe/std"
+		}
+	]
+}

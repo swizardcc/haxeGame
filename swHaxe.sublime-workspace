@@ -1,0 +1,582 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Eff",
+				"Effect	class"
+			],
+			[
+				"Class",
+				"Classdef	haxe.rtti.CType"
+			],
+			[
+				"Flxs",
+				"FlxSprite"
+			],
+			[
+				"Flx",
+				"FlxSprite"
+			],
+			[
+				"ext",
+				"extends"
+			],
+			[
+				"ui9",
+				"ui9slice1"
+			],
+			[
+				"scle",
+				"scale9"
+			],
+			[
+				"flxs",
+				"FlxSpriteFilter	class"
+			],
+			[
+				"Flxspr",
+				"FlxSpriteFilter"
+			],
+			[
+				"colo",
+				"ColorMatrixFilter	class"
+			],
+			[
+				"ma",
+				"matrix"
+			],
+			[
+				"C",
+				"ColorMatrixFilter"
+			],
+			[
+				"int",
+				"Int	class"
+			],
+			[
+				"Fls",
+				"FlxSprite	flixel"
+			],
+			[
+				"pa",
+				"package"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/swizard/haxe/flixel-ui/1,0,2/flixel/addons/ui/FlxUISprite.hx",
+			"settings":
+			{
+				"buffer_size": 873,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/Effect.hx",
+			"settings":
+			{
+				"buffer_size": 131,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/Main.hx",
+			"settings":
+			{
+				"buffer_size": 1955,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/MenuState.hx",
+			"settings":
+			{
+				"buffer_size": 2355,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/swizard/.zshrc/zshrc.zsh-template",
+			"settings":
+			{
+				"buffer_size": 2627,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/lib/haxe/std/Map.hx",
+			"settings":
+			{
+				"buffer_size": 5153,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ssha",
+		"selected_items":
+		[
+			[
+				"ssha",
+				"Set Syntax: Haxe"
+			],
+			[
+				"SSH",
+				"Set Syntax: Haxe"
+			],
+			[
+				"ssh",
+				"Set Syntax: Haxe"
+			],
+			[
+				"sshaxe",
+				"Set Syntax: Haxe"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"ssac",
+				"Set Syntax: ActionScript"
+			],
+			[
+				"ssja",
+				"Set Syntax: Java"
+			],
+			[
+				"git",
+				"Github: Plugin Settings"
+			],
+			[
+				"packagerins",
+				"Package Control: Install Package"
+			],
+			[
+				"pacageins",
+				"Package Control: Install Package"
+			],
+			[
+				"ssjava",
+				"Set Syntax: Java"
+			],
+			[
+				"sstext",
+				"Set Syntax: Plain Text"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 167.0,
+		"history":
+		[
+			"lime test flash",
+			"help",
+			"git",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/swizard/Documents/workspace/haxe/swHaxe",
+		"/Users/swizard/Documents/workspace/haxe/swHaxe/assets",
+		"/Users/swizard/Documents/workspace/haxe/swHaxe/assets/music"
+	],
+	"file_history":
+	[
+		"/usr/lib/haxe/std/Class.hx",
+		"/usr/lib/haxe/std/haxe/rtti/CType.hx",
+		"/Users/swizard/Documents/workspace/haxe/swHaxe/source/MenuState.hx",
+		"/Users/swizard/haxe/flixel-ui/1,0,2/flixel/addons/ui/FlxUIButton.hx",
+		"/Users/swizard/haxe/flixel-ui/1,0,2/flixel/addons/ui/FlxUITypedButton.hx",
+		"/Users/swizard/haxe/flixel-ui/1,0,2/flixel/addons/ui/interfaces/IFlxUIWidget.hx",
+		"/Users/swizard/Documents/workspace/haxe/swHaxe/Project.xml",
+		"/Users/swizard/Documents/workspace/haxe/swHaxe/swHaxe.sublime-project",
+		"/Users/swizard/haxe/flixel-ui/1,0,2/flixel/addons/ui/FlxUI9SliceSprite.hx",
+		"/Users/swizard/haxe/flixel-ui/1,0,2/flixel/addons/ui/interfaces/IFlxUIButton.hx",
+		"/Users/swizard/haxe/flixel/3,3,8/flixel/interfaces/IFlxDestroyable.hx",
+		"/Users/swizard/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/swizard/haxe/flixel/3,3,8/flixel/effects/FlxSpriteFilter.hx",
+		"/usr/lib/haxe/std/flash/filters/ColorMatrixFilter.hx",
+		"/Users/swizard/Documents/workspace/haxe/haxeGame/haxeGame.sublime-project",
+		"/Users/swizard/Documents/workspace/projectLearn/w99g01.gr.upaidui.com/GameServer/amf",
+		"/Users/swizard/Documents/workspace/projectLearn/tso/L605280914cn/SWMMO/GFX/effect_lib/guianim_hourglass.png",
+		"/Users/swizard/Documents/workspace/projectLearn/tso/L605280914cn/SWMMO/GFX/events_config.xml_enc",
+		"/Users/swizard/haxe/flixel/3,3,8/flixel/FlxSprite.hx",
+		"/Users/swizard/haxe/flixel/3,3,8/flixel/FlxObject.hx",
+		"/Users/swizard/haxe/flixel/3,3,8/flixel/FlxBasic.hx",
+		"/Users/swizard/Documents/workspace/haxe/learnHaxe/FlxProject.sublime-workspace",
+		"/Users/swizard/Documents/workspace/haxe/sublime-text/source/PlayState.hx",
+		"/Users/swizard/Documents/workspace/haxe/sublime-text/source/Main.hx",
+		"/Users/swizard/Documents/workspace/haxe/flixel/3,3,8/flixel/FlxGame.hx",
+		"/Users/swizard/Documents/workspace/haxe/flixel/3,3,8/include.xml",
+		"/Users/swizard/Documents/PtSanguo/source/manager/modelmanager/FightModelManager.hx",
+		"/Users/swizard/Library/Application Support/Sublime Text 3/Packages/User/Github Tools.sublime-settings",
+		"/Users/swizard/Documents/PtSanguo/source/manager/modelmanager/FormationModelManager.hx",
+		"/Users/swizard/Documents/PtSanguo/source/com/putaolab/game/module/formation/tacticalFormation/TacticalFormationPanel.hx",
+		"/Users/swizard/Downloads/Paragon_NTFS_V12.1.62_Mac/install_ntfs12_refresh.sh",
+		"/Users/swizard/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/swizard/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"arguments",
+			"100",
+			"description",
+			"arguments",
+			"point",
+			"currentState",
+			"Type",
+			"description",
+			"arguments",
+			"description",
+			"arguments",
+			"description",
+			"arguments",
+			"{\n",
+			"param",
+			"    /**\n     * [getDropCoin description]\n     * @param\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/swizard/haxe/flixel-ui/1,0,2/flixel/addons/ui/FlxUISprite.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 129.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/Effect.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/Main.hx",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1955,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 14.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "source/MenuState.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1986,
+								1986
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 631.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/swizard/.zshrc/zshrc.zsh-template",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1501,
+								1501
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 738.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/usr/lib/haxe/std/Map.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1780,
+								1780
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1299.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "swHaxe.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"flxubut",
+				"Flixel UI/flixel/addons/ui/FlxUIButton.hx"
+			],
+			[
+				"flxui9",
+				"Flixel Addons/flixel/addons/ui/FlxUI9SliceSprite.hx"
+			],
+			[
+				"sp",
+				"flixel/util/loaders/SparrowData.hx"
+			],
+			[
+				"forpa",
+				"source/com/putaolab/game/module/formation/tacticalFormation/TacticalFormationPanel.hx"
+			],
+			[
+				"formm",
+				"source/manager/modelmanager/FormationModelManager.hx"
+			],
+			[
+				"fm",
+				"source/manager/modelmanager/FightModelManager.hx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
