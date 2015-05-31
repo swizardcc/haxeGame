@@ -55,6 +55,12 @@ class MenuState extends FlxState
 		add(ui9slice1);
 		ui9slice1.scale.x = 1.5;
 		// ui9slice1.resize(50, ui9slice1.height);
+		// 
+		var m:Map = new Map<String, Int>();
+		m.set("a", 1);
+		m.set("b", 2);
+		trace(m.get("a"));
+		trace(m);
 	}
 	
 	/**
